@@ -20,7 +20,7 @@ var open = function(type, id){
 
     var socket = new Socket;
     var html = "";
-    var domain = "placekitten.com";
+    var domain = "lorempixel.com";
     var sImg = "/" + width + "/" + height;
     var port = ":80";
 
